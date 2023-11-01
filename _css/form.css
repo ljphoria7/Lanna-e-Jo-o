@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+ul#album {
+    width: 700px;
+    margin: 0px;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+
+}
